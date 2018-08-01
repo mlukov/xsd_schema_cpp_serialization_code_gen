@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XSD_Schema_Parser", "XSD_Schema_Parser\XSD_Schema_Parser.csproj", "{187C86B2-BA9F-4767-9AFC-EF67720F9C30}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0D564246-9766-4F71-A884-023AA2E34991}"
+	ProjectSection(SolutionItems) = preProject
+		Icon1.ico = Icon1.ico
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://team-server:8080/
+		SccProjectUniqueName0 = XSD_Schema_Parser\\XSD_Schema_Parser.csproj
+		SccProjectName0 = XSD_Schema_Parser
+		SccLocalPath0 = XSD_Schema_Parser
+		SccLocalPath1 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{187C86B2-BA9F-4767-9AFC-EF67720F9C30}.Debug|x86.ActiveCfg = Debug|x86
+		{187C86B2-BA9F-4767-9AFC-EF67720F9C30}.Debug|x86.Build.0 = Debug|x86
+		{187C86B2-BA9F-4767-9AFC-EF67720F9C30}.Release|x86.ActiveCfg = Release|x86
+		{187C86B2-BA9F-4767-9AFC-EF67720F9C30}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
